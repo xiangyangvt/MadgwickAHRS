@@ -25,7 +25,7 @@
 //-------------------------------------------------------------------------------------------
 // Definitions
 
-#define sampleFreqDef   512.0f          // sample frequency in Hz
+#define sampleFreqDef   104.0f          // sample frequency in Hz (changed from 512 to 104 as Nicla Vision has 104 Hz)
 #define betaDef         0.1f            // 2 * proportional gain
 
 
